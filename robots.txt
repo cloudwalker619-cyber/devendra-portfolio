@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deshmukhdev.netlify.app/sitemap.xml
