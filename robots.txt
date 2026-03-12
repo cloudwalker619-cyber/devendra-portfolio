@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://deshmukhdev.netlify.app/sitemap.xml
+Sitemap: https://cloudwalker619-cyber.github.io/devendra-portfolio/sitemap.xml
