@@ -59,7 +59,7 @@ for = "/*.pdf"
 
 [[redirects]]
 from = "https://deshmukhdev.netlify.app/*"
-to = "https://deshmukhdev.netlify.app/:splat"
+to = "https://cloudwalker619-cyber.github.io/devendra-portfolio/"
 status = 200
 force = false
 
